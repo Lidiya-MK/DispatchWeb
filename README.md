@@ -1,4 +1,4 @@
-# DispatchUI
+# DispatchWeb
 
 Official local development and run instructions
 
